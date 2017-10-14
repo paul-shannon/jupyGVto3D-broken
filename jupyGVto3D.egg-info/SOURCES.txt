@@ -1,0 +1,14 @@
+MANIFEST.in
+setup.cfg
+jupyGVto3D/GVto3D.py
+jupyGVto3D/__init__.py
+jupyGVto3D/_version.py
+jupyGVto3D.egg-info/PKG-INFO
+jupyGVto3D.egg-info/SOURCES.txt
+jupyGVto3D.egg-info/dependency_links.txt
+jupyGVto3D.egg-info/not-zip-safe
+jupyGVto3D.egg-info/requires.txt
+jupyGVto3D.egg-info/top_level.txt
+jupyGVto3D/static/extension.js
+jupyGVto3D/static/index.js
+jupyGVto3D/static/index.js.map
